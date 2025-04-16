@@ -27,12 +27,13 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
+```
 /*
 Program to print the list of item.
 Developed by: BHUVANESHWARI S
 Registeration Number : 212222220008
 */
-
+```
 # activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
